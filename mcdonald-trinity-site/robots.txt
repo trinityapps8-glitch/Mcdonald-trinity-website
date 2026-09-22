@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mcdonaldtrinity.netlify.app/sitemap.xml
